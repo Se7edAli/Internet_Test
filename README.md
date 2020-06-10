@@ -1,4 +1,4 @@
 # Internet_Test
-Internet Speedtest and ip lookup
-show loaction 
-show ISP name
+just run "python3 Internet_Test.py"
+
+done !!!
