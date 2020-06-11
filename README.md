@@ -1,4 +1,2 @@
-# Internet_Test
-just run "python3 Internet_Test.py"
-
-done !!!
+#Internet Test GUI 
+##for use this app please [pip](https://pypi.org/project/speedtest-cli) to install Speedtest
