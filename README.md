@@ -7,7 +7,6 @@
 ```bash
 pip install speedtest-cli
 ```
-## or use from the module folder
 
 ## Usage
 just run Internet_Test.py with this command
